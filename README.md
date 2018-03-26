@@ -7,10 +7,10 @@
 
 ## 我给大家提供的附加视频教程
 
-* [我的博客](http://blog.parryqiu.com/)
+* [我的技术博客](http://blog.parryqiu.com/)
 
 * [React.js 开发参见问题 Q&A](http://blog.parryqiu.com/2017/03/09/react-q-and-a/)
 
-* [Webpack 2 视频教程](https://devopen.club/course/webpack)
+* [原创 Webpack 2 视频教程](https://devopen.club/course/webpack)
 
-* [VSCode 高效开发必装插件](https://devopen.club/course/vscode)
+* [原创 VSCode 高效开发必装插件视频教程](https://devopen.club/course/vscode)
