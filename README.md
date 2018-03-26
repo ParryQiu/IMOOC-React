@@ -14,3 +14,13 @@
 * [原创 Webpack 2 视频教程](https://devopen.club/course/webpack)
 
 * [原创 VSCode 高效开发必装插件视频教程](https://devopen.club/course/vscode)
+
+## 针对源码文件夹 react-router-4_webpack-2-update 更新的视频讲解
+
+主要讲解了如下几个问题
+
+1: 如果初始化下载的源码；
+
+2: 如何在本地运行项目；
+
+3: 如何修改代码，可以直接打开 html 就可以运行，这样你就可以将 React 的项目直接当成一个静态站点进行部署。
