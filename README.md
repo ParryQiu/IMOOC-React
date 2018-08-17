@@ -3,7 +3,7 @@
 
 课程地址：[http://coding.imooc.com/class/83.html](http://coding.imooc.com/class/83.html)
 
-* [2018-08-16]: 更新了在 webpack 4 版本下配置的 demo 代码
+* [2018-08-16]: 更新了在 webpack 4 版本下配置的 demo 代码，对应的文件夹为 react-webpack-4-config-demo
 
 # 我给大家提供的课程附加视频教程与资源
 
