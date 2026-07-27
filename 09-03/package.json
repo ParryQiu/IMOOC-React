@@ -16,7 +16,7 @@
     "react-dom": "^15.3.2",
     "react-mixin": "^2.0.2",
     "webpack": "^1.13.2",
-    "webpack-dev-server": "^1.16.1",
+    "webpack-dev-server": "^6.0.0",
 
     "babel-plugin-react-html-attrs": "^2.0.0",
     "style-loader": "^0.13.1",
